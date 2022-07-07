@@ -1,0 +1,2 @@
+## Este repositorio contiene los codigos desarrollados en el curso y sus respectivos documentos
+### El curso fue dictado por la Universidad de Antioquia en convenio con el proyecto de Valle del Software de la Alcaldia de Medellín
